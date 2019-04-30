@@ -3,6 +3,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Motivations](#Motivations)
 
 ## General info
 This Jupyter Notebook is running different ML models on the well known Iris dataset.
@@ -26,10 +27,10 @@ Project is created with:
 	
 ## Setup
 To run this project:
-1.) Download the Iris.ipynb
-2.) Start your Jupyter Notebook using anaconda prompt and 'Jupyter notebook'
-3.) Load Iris.ipynb into Jupyter Notebook
-4.) Run and execute code block by block or entire file, it will access dataset within the notebook
+* 1.) Download the Iris.ipynb
+* 2.) Start your Jupyter Notebook using anaconda prompt and 'Jupyter notebook'
+* 3.) Load Iris.ipynb into Jupyter Notebook
+* 4.) Run and execute code block by block or entire file, it will access dataset within the notebook
 
 ## Motivations
 I wanted to learn more about Sklearn and how to further my 
