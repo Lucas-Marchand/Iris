@@ -4,6 +4,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Motivations](#Motivations)
+* [Contributing](#Contributing)
 
 ## General info
 This Jupyter Notebook is running different ML models on the well known Iris dataset.
@@ -42,3 +43,7 @@ The tururial I followed was from Jason Brownlee
 and gave me great insight into how some machine learning specialists
 are exploring data and how I can use this in my future projects when
 I go to explore different datasets.
+
+## Contributing
+Contributions are welcome on how to improve accurazy outside of the standard
+sklearn models.
